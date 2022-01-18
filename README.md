@@ -6,3 +6,4 @@ Denne linjen er skrevet lokalt!
 Denne linjen er også skrevet lokalt
 Legger til en linje nr 4 fra Github
 Denne linjen skal være med i en pull request!
+Denne linjen legger jeg på i dag 220118
